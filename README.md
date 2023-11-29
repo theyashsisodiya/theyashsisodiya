@@ -1,6 +1,6 @@
-<img src="https://www.pinclipart.com/picdir/big/581-5811775_web-developer-vector-image-png-clipart.png" width="100%" />
+<img src="https://cdn.sanity.io/images/ordgikwe/production/a830c5182852e35bcd0dc07b90122f07ecd15f48-700x525.gif" width="100%" />
 <h1 align="center">Hi 👋, I'm Yashraj singh sisodiya</h1>
-<h3 align="center">Cloud Enthusiast | 3rd-year undergrad at SVVV Indore | Future DevOps Prodigy | Coding for Tomorrow! </h3>
+<h3 align="center">"Passionate about DevOps and Cloud | Third-Year Student on a Coding Journey. Thriving on challenges, exploring Blockchain, AI, and Cloud tech. Let's innovate together for the future!  </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=theyashsisodiya&label=Profile%20views&color=0e75b6&style=flat" alt="theyashsisodiya" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=theyashsisodiya&theme=" alt="theyashsisodiya" /></a> </p>
