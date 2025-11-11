@@ -3,7 +3,7 @@
   <img src="https://cdn.sanity.io/images/ordgikwe/production/a830c5182852e35bcd0dc07b90122f07ecd15f48-700x525.gif" width="30%" />
 </div>
 
-<h3 align="center">🚀 AI Automation | DevOps | Cloud Computing | Final-Year CSE Student</h3>
+<h3 align="center">🚀 AI Automation | DevOps | Cloud Computing | Graduate CSE Student</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=theyashsisodiya&label=Profile%20views&color=0e75b6&style=flat" alt="theyashsisodiya" />
